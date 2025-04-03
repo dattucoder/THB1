@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "NewBMICaulator"
+rootProject.name = "The Hungry Developer"
 include(":app")
  
