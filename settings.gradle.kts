@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "SharePreference"
+rootProject.name = "63"
 include(":app")
  
