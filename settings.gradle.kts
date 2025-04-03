@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "CSESport"
+rootProject.name = "Our Firebase Realtime"
 include(":app")
  
