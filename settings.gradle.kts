@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Our Firebase Realtime"
+rootProject.name = "NewBMICaulator"
 include(":app")
  
