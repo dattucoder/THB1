@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "ContactApp"
+rootProject.name = "CallBack Reminder"
 include(":app")
  
