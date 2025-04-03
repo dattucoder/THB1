@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "TelephonyManager"
+rootProject.name = "Content Providers"
 include(":app")
  
